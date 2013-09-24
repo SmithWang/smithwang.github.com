@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.dhect.com/sitemap.xml 
+Sitemap: http://smithwang.github.com/sitemap.xml 
